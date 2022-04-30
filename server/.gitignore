@@ -1,0 +1,6 @@
+node_modules
+/dist
+/database.ts
+
+# local env files
+.env
